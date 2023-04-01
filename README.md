@@ -29,4 +29,5 @@ Bayesian search approach has been implemented to find the optimal hyperparameter
 
 * The project has been developed in a team of two, composed by me and [@shalbyhazem99](https://github.com/shalbyhazem99).
 
+
 * The proposed solution has been implemented using and adapting algorithms from the official Recommender Systems [course repository](https://github.com/MaurizioFD/RecSys_Course_AT_PoliMi).
